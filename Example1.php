@@ -20,7 +20,7 @@
         </h3>
         <ol>
             <?php
-                $ryba = mysqli_connect('localhost', )
+                $ryba = mysqli_connect('localhost', 'root', '', 'wedkowanie')
             ?>      
         </ol>
     </section>
